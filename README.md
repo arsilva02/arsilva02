@@ -3,5 +3,6 @@
 - I went to ACC for 2 years before transferring to UT
 - Interested in all things data and statistics and databases!
 - I am a big R fan
+- A list girl in a dictionary world...
 - Currently conducting bayesian learning research using Python
 - My email is arsilva@utexas.edu, feel free to reach out!
