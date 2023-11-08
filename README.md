@@ -2,4 +2,6 @@
 - Currently a Management Information Systems major with a Business Analytics minor at McCombs, UT Austin
 - I went to ACC for 2 years before transferring to UT
 - Interested in all things data and statistics and databases!
+- I am a big R fan
+- Currently conducting bayesian learning research using Python
 - My email is arsilva@utexas.edu, feel free to reach out!
