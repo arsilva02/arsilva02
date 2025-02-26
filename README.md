@@ -1,8 +1,8 @@
 - 👋 My name is Arden Silva!
-- Currently a Management Information Systems major with a Business Analytics minor at McCombs, UT Austin
+- Currently a graduate student (Masters of Science in Information Technology and Management)
+- Got my bachelors in Management Information Systems major with a Business Analytics minor at McCombs, UT Austin
 - I went to ACC for 2 years before transferring to UT
 - Interested in all things data and statistics and databases!
-- I am a big R fan
 - A list girl in a dictionary world...
 - Currently conducting bayesian learning research using Python
 - My email is arsilva@utexas.edu, feel free to reach out!
